@@ -1,0 +1,4 @@
+# ID client Google: 707102883016-gg58gtr8bqpn5ksid7jacgntmgbr10g5.apps.googleusercontent.com
+# Code secret Google: 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
+
+Clé API Resend: re_Bjg83m3Z_FJZptkQA2RF9nDUc2YwkRccj
